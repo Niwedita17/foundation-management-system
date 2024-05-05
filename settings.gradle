@@ -1,0 +1,3 @@
+rootProject.name = 'foundation-management-system'
+
+include 'backend'
